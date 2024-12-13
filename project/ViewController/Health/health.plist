@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    <key>orgName</key>
+    <array>
+        <string>สถาบันการแพทย์ฉุกเฉินแห่งชาติ</string>
+        <string>มูลนิธิป่อเต็กตึ๊ง</string>
+    </array>
+    <key>telNum</key>
+    <array>
+        <string>1669</string>
+        <string>1418</string>
+    </array>
+    <key>orgDetails</key>
+    <array>
+        <string>สถาบันการแพทย์ฉุกเฉินแห่งชาติ (สพฉ.) เป็นหน่วยงานที่มีบทบาทสำคัญในการพัฒนาระบบการแพทย์ฉุกเฉินในประเทศไทย โดยมีประโยชน์หลัก ๆ ที่ส่งผลดีต่อประชาชนและระบบสุขภาพของประเทศ</string>
+        <string>มูลนิธิป่อเต็กตึ๊ง เป็นองค์กรสาธารณกุศลที่มีบทบาทสำคัญในการช่วยเหลือผู้ประสบภัยและบรรเทาสาธารณภัยในประเทศไทย ก่อตั้งขึ้นในปี พ.ศ. 2452 โดยกลุ่มพ่อค้าชาวจีนในกรุงเทพฯ มีวัตถุประสงค์เริ่มต้นในการเก็บศพไร้ญาติและช่วยเหลือด้านสาธารณสุข</string>
+    </array>
+    <key>imgIcon</key>
+    <array>
+        <string>waterAccidentOrg.png</string>
+        <string>rescueOrg.jpeg</string>
+    </array>
+</dict>
+</plist>

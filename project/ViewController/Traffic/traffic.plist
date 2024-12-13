@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    <key>orgName</key>
+    <array>
+        <string>กองบังคับการตำรวจจราจร</string>
+        <string>สายตรงทางด่วนอุบัติเหตุ</string>
+        <string>กรมทางหลวงชนบท</string>
+    </array>
+    <key>telNum</key>
+    <array>
+        <string>1197</string>
+        <string>1586</string>
+        <string>1146</string>
+    </array>
+    <key>orgDetails</key>
+    <array>
+        <string>เป็นหน่วยงานในสังกัดสำนักงานตำรวจแห่งชาติของประเทศไทย มีหน้าที่หลักในการควบคุมและจัดการการจราจรบนท้องถนน เพื่อให้การเดินทางของประชาชนเป็นไปอย่างปลอดภัยและมีระเบียบ</string>
+        <string>เป็นหน่วยงานภายใต้กระทรวงคมนาคมของประเทศไทย มีบทบาทสำคัญในการพัฒนาและดูแลโครงสร้างพื้นฐานทางหลวง เพื่ออำนวยความสะดวกในการเดินทางและการขนส่งสินค้า</string>
+        <string>เป็นหน่วยงานภายใต้กระทรวงคมนาคมของประเทศไทยที่มีบทบาทสำคัญในการพัฒนาและดูแลโครงสร้างพื้นฐานทางหลวงชนบท โดยมีภารกิจหลักในการสนับสนุนการคมนาคมขนส่ง การพัฒนาชุมชน และการแก้ไขปัญหาจราจรในพื้นที่ชนบท</string>
+    </array>
+    <key>imgIcon</key>
+    <array>
+        <string>trafficPoliceOrg.jpeg</string>
+        <string>primaryWay.jpeg</string>
+        <string>countrySide.jpeg</string>
+    </array>
+</dict>
+</plist>

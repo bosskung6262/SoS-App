@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    <key>orgName</key>
+    <array>
+        <string>มูลนิธิป่อเต็กตึ๊ง</string>
+        <string>กรมเจ้าท่า</string>
+    </array>
+    <key>telNum</key>
+    <array>
+        <string>1669</string>
+        <string>1586</string>
+    </array>
+    <key>orgDetails</key>
+    <array>
+        <string>มูลนิธิป่อเต็กตึ๊ง เป็นองค์กรสาธารณกุศลที่มีบทบาทสำคัญในการช่วยเหลือผู้ประสบภัยและบรรเทาสาธารณภัยในประเทศไทย ก่อตั้งขึ้นในปี พ.ศ. 2452 โดยกลุ่มพ่อค้าชาวจีนในกรุงเทพฯ มีวัตถุประสงค์เริ่มต้นในการเก็บศพไร้ญาติและช่วยเหลือด้านสาธารณสุข</string>
+        <string>กรมเจ้าท่าเป็นหน่วยงานที่มีบทบาทสำคัญในการดูแลและพัฒนาระบบการขนส่งทางน้ำในประเทศไทย โดยมุ่งหวังที่จะสร้างความปลอดภัยและประสิทธิภาพในการเดินเรือ ซึ่งส่งผลดีต่อเศรษฐกิจและคุณภาพชีวิตของประชาชน</string>
+    </array>
+    <key>imgIcon</key>
+    <array>
+        <string>rescueOrg.jpeg</string>
+        <string>waterPoliceOrg.jpeg</string>
+    </array>
+</dict>
+</plist>
